@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlbumsList</string>
+    <string-array name="query_suggestions">
+        <item>Lana del Rey</item>
+        <item>Beyonce</item>
+    </string-array>
+</resources>
